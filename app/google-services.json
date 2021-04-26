@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "363676757015",
+    "project_id": "fir-basic-a9c6e",
+    "storage_bucket": "fir-basic-a9c6e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:363676757015:android:f727f5b1ac4de291a94052",
+        "android_client_info": {
+          "package_name": "com.abhilasha.androidclass.firebasebasic"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "363676757015-d6hfus5n09cr75a765iatus6fgk9tuar.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB6C0CzEbjEMvNzqofJLcCQDXgWxKDQ3Qw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "363676757015-d6hfus5n09cr75a765iatus6fgk9tuar.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
